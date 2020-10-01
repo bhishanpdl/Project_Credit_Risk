@@ -1,1 +1,5 @@
-Credit Risk
+|  Notebook | Rendered   | Description  |  Author |
+|---|---|---|---|
+| a01_credit_risk_few_features_eda.ipynb  | [ipynb](https://github.com/bhishanpdl/Project_Consumer_Complaint_Database/blob/master/notebooks/a01_credit_risk_few_features_eda.ipynb), [rendered](https://nbviewer.jupyter.org/github/bhishanpdl/Project_Consumer_Complaint_Database/blob/master/notebooks/a01_credit_risk_few_features_eda.ipynb)  |   | [Bhishan Poudel](https://bhishanpdl.github.io/)  |
+| a02_data_cleaning.ipynb  | [ipynb](https://github.com/bhishanpdl/Project_Consumer_Complaint_Database/blob/master/notebooks/a02_data_cleaning.ipynb), [rendered](https://nbviewer.jupyter.org/github/bhishanpdl/Project_Consumer_Complaint_Database/blob/master/notebooks/a02_data_cleaning.ipynb)  |   | [Bhishan Poudel](https://bhishanpdl.github.io/)  |
+| a03_PDModel_GiniKS_CreditScore_Scorecard.ipynb  | [ipynb](https://github.com/bhishanpdl/Project_Consumer_Complaint_Database/blob/master/notebooks/a03_PDModel_GiniKS_CreditScore_Scorecard.ipynb), [rendered](https://nbviewer.jupyter.org/github/bhishanpdl/Project_Consumer_Complaint_Database/blob/master/notebooks/a03_PDModel_GiniKS_CreditScore_Scorecard.ipynb)  |   | [Bhishan Poudel](https://bhishanpdl.github.io/)  |
