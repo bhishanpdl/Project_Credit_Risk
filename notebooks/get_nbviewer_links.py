@@ -3,7 +3,7 @@ import glob
 
 github = "https://github.com/"
 user = "bhishanpdl"
-project = "/Project_Consumer_Complaint_Database"
+project = "/Project_Credit_Risk"
 path = "/blob/master/notebooks/"
 nbview = "https://nbviewer.jupyter.org/github/"
 
